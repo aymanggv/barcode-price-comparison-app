@@ -97,6 +97,25 @@ Consumers often overpay due to lack of access to real-time price data across var
 
 ---
 
+## 🗃️ Database Design
+
+The app uses **Firebase Firestore**, a real-time NoSQL cloud database, to store and retrieve product and nutritional information efficiently.
+
+### 📦 Collections Overview
+
+There are two primary collections in the Firestore database:
+
+#### 1. `products`
+Stores general product and pricing information keyed by barcode.
+
+
+#### 2. `details`
+Stores nutritional facts keyed by barcode.
+
+
+
+---
+
 ## 📸 Screenshots
 
 ### 🖼️ Splash Screen
