@@ -89,3 +89,67 @@ Consumers often overpay due to lack of access to real-time price data across var
 - Barcode number is used to query product info in Firestore
 - Results (price, stores, nutritional facts) are shown in-app
 - Google Maps links assist in store navigation
+
+---
+
+## 📸 Screenshots
+
+Add screenshots or demo GIFs here for:
+
+- 🖼️ Splash Screen  
+- 🏠 Home Page  
+- ➕ Add Product Page  
+- 🔍 Product Lookup  
+- 🍎 Nutrition Info Viewer  
+
+---
+
+## ✅ Testing
+
+### 🔍 White Box Testing
+
+All methods (e.g., `onCreate()`, `getProductfromDB()`) successfully passed logic and integration tests.
+
+### 🧪 Black Box Testing
+
+All user-level functions such as scanning, adding, retrieving, and displaying nutritional info passed functionality tests.
+
+### 🧑‍💻 Usability Evaluation
+
+A user survey revealed:
+
+- ✔️ High satisfaction with simplicity and barcode functionality  
+- 🎨 Design aesthetics (colors/layout) could be improved
+
+---
+
+## 🚧 Limitations
+
+- 📷 Scanning requires clear lighting and angles  
+- 🛑 Duplicate entries are not flagged  
+- 🔠 Search is barcode-only (no product-name search)  
+- 🗺️ Basic store distance integration via Google Maps (no in-app routing)
+
+---
+
+## 🚀 Future Improvements
+
+- 🔎 Add keyword/product name search  
+- 🗺️ Embed Google Maps with route functionality  
+- 📥 Allow saving product lists (wishlists/favorites)  
+- 🔔 Implement price alerts  
+- 🧑‍🤝‍🧑 Integrate a user feedback and rating system
+
+---
+
+## 📄 License
+
+This project was developed as part of an academic submission. Please contact the author for use beyond personal or educational purposes.
+
+---
+
+## 📬 Contact
+
+For inquiries or collaboration:
+
+- 📧 Email: [aymanggv@hotmail.com]  
