@@ -110,7 +110,7 @@ Add screenshots or demo GIFs here for:
 - 🔍 Product Lookup
 <img src="images/system_screenshots/Get_Product_1.jpg" alt="Product Lookup" width="400"/>
 - 🍎 Nutrition Info Viewer
-<img src="images/system_screenshots/Nutrition_Details.jpg" alt="Nutrition Info" width="400"/>
+<img src="images/system_screenshots/Nutritional_Details.jpg" alt="Nutrition Info" width="400"/>
 
 ---
 
