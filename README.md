@@ -107,17 +107,17 @@ Consumers often overpay due to lack of access to real-time price data across var
 ### 🏠 Home Page
 <img src="images/system_screenshots/Home_Page.jpg" alt="Home Page" width="200"/>
 
----
+##
 
 ### ➕ Add Product Page
 <img src="images/system_screenshots/Add_Product_1.jpg" alt="Add Product" width="200"/>
 
----
+##
 
 ### 🔍 Product Lookup
 <img src="images/system_screenshots/Get_Product_1.jpg" alt="Product Lookup" width="200"/>
 
----
+##
 
 ### 🍎 Nutrition Info Viewer
 <img src="images/system_screenshots/Nutritional_Details.jpg" alt="Nutrition Info" width="200"/>
