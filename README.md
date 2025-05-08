@@ -51,7 +51,7 @@ Consumers often overpay due to lack of access to real-time price data across var
 
 ## 🗂️ Project Structure
 ```
-├── app/
+├── barcoede_app/
 │ ├── src/
 │ │ ├── main/
 │ │ │ ├── java/
@@ -75,10 +75,11 @@ Consumers often overpay due to lack of access to real-time price data across var
 │ │ │ │ └── splash_activity.xml
 │ │ │ └── drawable/ (images/icons)
 │ ├── build.gradle
-├── .gitignore
+├── docs/
+│ ├── Individual project report.docx
+│ ├── FYPppt.pptx
 ├── README.md
-└── thesis/
-└── Individual project report.pdf
+└── 
 ```
 
 ## 🖥️ App Architecture
