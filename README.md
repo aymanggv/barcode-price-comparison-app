@@ -53,27 +53,27 @@ Consumers often overpay due to lack of access to real-time price data across var
 ```
 ├── barcoede_app/
 │ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/
-│ │ │ │ ├── com/
-│ │ │ │ │ └── pricezilla/
-│ │ │ │ ├── MainActivity.java
-│ │ │ │ ├── Product.java
-│ │ │ │ ├── Details.java
-│ │ │ │ ├── ProductUtil.java
-│ │ │ │ ├── ProductBaseActivity.java
-│ │ │ │ ├── ProductAdditionActivity.java
-│ │ │ │ ├── ProductReaderActivity.java
-│ │ │ │ ├── ProductDetails.java
-│ │ │ │ └── SplashActivity.java
-│ │ │ └── res/
-│ │ │ ├── layout/
-│ │ │ │ ├── activity_main.xml
-│ │ │ │ ├── product_addition.xml
-│ │ │ │ ├── product_reader.xml
-│ │ │ │ ├── product_details.xml
-│ │ │ │ └── splash_activity.xml
-│ │ │ └── drawable/ (images/icons)
+│   ├── main/
+│     ├── java/
+│       ├── com/
+│       │ └── pricezilla/
+│       ├── MainActivity.java
+│       ├── Product.java
+│       ├── Details.java
+│       ├── ProductUtil.java
+│       ├── ProductBaseActivity.java
+│       ├── ProductAdditionActivity.java
+│       ├── ProductReaderActivity.java
+│       ├── ProductDetails.java
+│       └── SplashActivity.java
+│     └── res/
+│     ├── layout/
+│       ├── activity_main.xml
+│       ├── product_addition.xml
+│       ├── product_reader.xml
+│       ├── product_details.xml
+│       └── splash_activity.xml
+│     └── drawable/ (images/icons)
 │ ├── build.gradle
 │
 ├── docs/
