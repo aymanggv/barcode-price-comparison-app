@@ -83,11 +83,7 @@ Consumers often overpay due to lack of access to real-time price data across var
 
 ## 🖥️ App Architecture
 
-```plaintext
-User ↔ Android App ↔ Firestore DB
-     ↕              ↕
- Camera         Firebase ML Kit
-```
+![Data Architecture](images/App_Architecture.png)
 
 - App scans barcodes via camera and Firebase ML Kit
 - Barcode number is used to query product info in Firestore
