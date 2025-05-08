@@ -75,11 +75,13 @@ Consumers often overpay due to lack of access to real-time price data across var
 │ │ │ │ └── splash_activity.xml
 │ │ │ └── drawable/ (images/icons)
 │ ├── build.gradle
+│
 ├── docs/
 │ ├── Individual project report.docx
 │ ├── FYPppt.pptx
-├── README.md
-└── 
+│
+├── images/
+└── README.md 
 ```
 
 ## 🖥️ App Architecture
