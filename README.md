@@ -103,10 +103,14 @@ Add screenshots or demo GIFs here for:
 
 - 🖼️ Splash Screen
 <img src="images/system_screenshots/Splash_Screen.jpg" alt="Splash Screen" width="400"/>
-- 🏠 Home Page  
-- ➕ Add Product Page  
-- 🔍 Product Lookup  
-- 🍎 Nutrition Info Viewer  
+- 🏠 Home Page
+<img src="images/system_screenshots/Home_Page.jpg" alt="Home Page" width="400"/>  
+- ➕ Add Product Page
+<img src="images/system_screenshots/Add_Product_1.jpg" alt="Add Product" width="400"/>
+- 🔍 Product Lookup
+<img src="images/system_screenshots/Get_Product_1.jpg" alt="Product Lookup" width="400"/>
+- 🍎 Nutrition Info Viewer
+<img src="images/system_screenshots/Nutrition_Details.jpg" alt="Nutrition Info" width="400"/>
 
 ---
 
