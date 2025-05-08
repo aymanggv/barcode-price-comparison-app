@@ -102,7 +102,7 @@ Consumers often overpay due to lack of access to real-time price data across var
 Add screenshots or demo GIFs here for:
 
 - 🖼️ Splash Screen
-![Splash Screen](images/system_screenshots/Splash_Screen.jpg)
+<img src="images/system_screenshots/Splash_Screen.jpg" alt="Splash Screen" width="400"/>
 - 🏠 Home Page  
 - ➕ Add Product Page  
 - 🔍 Product Lookup  
