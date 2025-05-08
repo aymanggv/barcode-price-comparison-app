@@ -107,11 +107,12 @@ There are two primary collections in the Firestore database:
 
 #### 1. `products`
 Stores general product and pricing information keyed by barcode.
+![Product Database](images/database/Database_Products.png)
 
 
 #### 2. `details`
 Stores nutritional facts keyed by barcode.
-
+![Product Database](images/database/Database_Nutrition.png)
 
 
 ---
