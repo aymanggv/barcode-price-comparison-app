@@ -75,11 +75,15 @@ Consumers often overpay due to lack of access to real-time price data across var
 │ │ │ │ └── splash_activity.xml
 │ │ │ └── drawable/ (images/icons)
 │ ├── build.gradle
+│
 ├── docs/
 │ ├── Individual project report.docx
 │ ├── FYPppt.pptx
-├── README.md
-└── 
+│
+├── images/
+│
+├── LICENSE
+└── README.md 
 ```
 
 ## 🖥️ App Architecture
@@ -97,7 +101,8 @@ Consumers often overpay due to lack of access to real-time price data across var
 
 Add screenshots or demo GIFs here for:
 
-- 🖼️ Splash Screen  
+- 🖼️ Splash Screen
+![Splash Screen](images/System Screenshots/Splash_Screen.jpg)
 - 🏠 Home Page  
 - ➕ Add Product Page  
 - 🔍 Product Lookup  
