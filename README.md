@@ -112,7 +112,7 @@ Stores general product and pricing information keyed by barcode.
 
 #### 2. `details`
 Stores nutritional facts keyed by barcode.
-![Product Database](images/database/Database_Nutrition.png)
+![Nutrition Database](images/database/Database_Nutrition.png)
 
 
 ---
