@@ -81,6 +81,9 @@ Consumers often overpay due to lack of access to real-time price data across var
 │ ├── FYPppt.pptx
 │
 ├── images/
+│ ├── database
+│ ├── system_screenshots
+│ ├── App_Architecture.png
 │
 ├── LICENSE
 └── README.md 
